@@ -11,7 +11,7 @@ body{
   }
 
   #inner-div {
-    box-sizing: border-box;
+    box-sizing:border-box; 
     width: 50%;
   }
 
@@ -21,7 +21,7 @@ body{
     width: 100%;
     size: 300px;
     font-weight: 900;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
    color:darkblue;
 }
 
